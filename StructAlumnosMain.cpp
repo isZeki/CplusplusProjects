@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 		cout<<"\n";
 	}
 	
-	// Se imprimen los registros
+	// Se imprimen los registros de todos los alumnos
 	cout<<"Imprimiendo Datos......."<<endl;
 	for(int i=0;i<cant;i++){
 		cout<<"------>>>Alumno#"<<i+1<<endl;
